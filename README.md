@@ -15,10 +15,5 @@ OpenWeather API를 활용하여 현재 날씨 정보를 확인할 수 있습니�
 - HTML, CSS, JavaScript
 - OpenWeather API
 
-## 🚀 사용 방법
 
-```bash
-git clone https://github.com/Jhp02/weather-app.git
-cd weather-app
-# index.html을 브라우저로 실행하세요
 
